@@ -7,4 +7,6 @@ Paper link : https://arxiv.org/pdf/1706.03762.pdf
 
 The model architecture might not be 100% accurate, but is enough to give a major insight into how 'Transformers' work, as suggested by the authors. 
 
+The main() consists of a randomly chosen set of inputs and targets, just for the sake of checking if the model works or not. (NOT FROM ANY DATASET)
+
 
